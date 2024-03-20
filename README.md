@@ -1,9 +1,8 @@
 # MeQL
-MeQL is my own database whose architecture is inspired from SQLite.
+Recently, we faced the deadlock recently in our production environment and I have to look into that. <br>
 
-Back to the time, when I was working on one my project, I encountered an issue with the SQL query. <br>
-Later on the problem is fixed (thanks to StackOverflow, indeed!) but make me curious enough to kick off this project is started as a curiosuity to know the internals of database.
+To be honest, I hated it when I started looking into the issue, but man, when I dive deep into the database internal architecture, woah 🔥 it is really a piece of art 🎨.
 
-<br>
+MeQL is our own custom database whose architecture is inspired from SQLite.
 
 Although, I didn't aim to implement the whole head to toe of the database, implemented enough to have better idea and insights about the internal. From the college days, I used to work on high level languages only but this time picked up C (though not a very good decision) but ChatGPT and couple of friends from Embedded domain helped me 😉.
